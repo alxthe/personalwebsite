@@ -1,0 +1,13 @@
+html, body {
+  text-align:center;
+  background-color: black;
+}
+
+h1, p {
+  font-family: Helvetica, system-ui;
+  color: white;
+}
+
+img {
+  width: 200px;
+}
